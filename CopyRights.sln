@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyRights.Web", "CopyRights.Web\CopyRights.Web.csproj", "{8AD9C7FC-1445-4886-A141-C7BF3BADD81F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyRights.WebAPI", "CopyRights.WebAPI\CopyRights.WebAPI.csproj", "{614544C6-3ABB-459C-9822-D04A517D4492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyRights.UnitTest", "CopyRights.UnitTest\CopyRights.UnitTest.csproj", "{46802793-B775-4EB1-B525-69DEBE5FF870}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8AD9C7FC-1445-4886-A141-C7BF3BADD81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD9C7FC-1445-4886-A141-C7BF3BADD81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD9C7FC-1445-4886-A141-C7BF3BADD81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614544C6-3ABB-459C-9822-D04A517D4492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614544C6-3ABB-459C-9822-D04A517D4492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614544C6-3ABB-459C-9822-D04A517D4492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614544C6-3ABB-459C-9822-D04A517D4492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46802793-B775-4EB1-B525-69DEBE5FF870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46802793-B775-4EB1-B525-69DEBE5FF870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46802793-B775-4EB1-B525-69DEBE5FF870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46802793-B775-4EB1-B525-69DEBE5FF870}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
